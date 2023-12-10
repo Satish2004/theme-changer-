@@ -1,0 +1,29 @@
+img{
+
+    background-size: cover;
+    margin-left: 40%;
+    margin-top: 05%;
+}
+#mode{
+
+    margin-top: 5%;
+    margin-left:43% ;
+font-size: 150%;
+height: 90%;
+width: 25%;
+}
+
+#mode:hover{
+    background-color: aqua;
+    border: 4px solid orange;
+
+
+
+}
+
+
+.heading{
+color: blueviolet;
+text-align: center;
+background-color: yellow;
+}
